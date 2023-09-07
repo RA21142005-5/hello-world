@@ -1,6 +1,7 @@
 from os import *
 from funcoes import *
 system("clear")
+print("V.7.0")
 while True:
     menu()
     op=LeiaInt("\033[0;32mDigite uma equaçao matematica: \033[m")
